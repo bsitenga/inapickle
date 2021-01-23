@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/bsitenga/inapickle#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "path": "^0.12.7"
   },
   "engines": {
     "node": "12.18.3"
